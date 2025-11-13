@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# quiz.py - simple CLI quiz
-
 questions = [
     {
         "q": "What is the capital of France?",
